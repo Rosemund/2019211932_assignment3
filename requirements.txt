@@ -3,6 +3,6 @@ jupyterlab
 matplotlib
 future
 h5py
-scipy==1.2.1
+scipy==1.10.0
 # install pytorch outside
 # conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
